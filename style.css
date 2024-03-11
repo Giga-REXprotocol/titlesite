@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(77, 205, 107);
+    background-image: url("stone_00085.jpg");
+    background-size: cover;
     margin: auto;
 }
 header{
